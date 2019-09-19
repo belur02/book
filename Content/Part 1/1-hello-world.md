@@ -1,11 +1,16 @@
 ## 1. Cashier observation book
 
-- Observe ops, SM, ASM, DM, FC, HK, security, csd, tailor
-- Give opinion about them all the above designation
+| <img src="http://www.clipartbest.com/cliparts/di8/XoK/di8XoKnXT.png" alt="Spy" width="80px" /> | <img src="https://free.clipartof.com/2097-Free-Clipart-Of-A-Man-With-A-Magnifying-Glass-Over-A-Document.png" alt="spy" width="80px" />
+| ---------------------------------------| -------------------------------------- |
+| Observe ops, SM, ASM, DM, FC, HK, security, csd, tailor | Give opinion about them all the above designation |
+
+- 
 - Special assignment for Asm, Dm, fc, hk, security, tailor, 
 - Anybody your assigning about sop or not doing job properly you can write in observation 
 - Explain customer about trends, & family, store location, washing instruction, exchange policy
-- Cashiers scope of work
+
+
+## Cashiers scope of work
 - duty is to listen all the sop's and understand in depth
 - keeping eye on the fc, hk, security, sm,asm,dm,ops
 - observe the staff greeted as per sop
