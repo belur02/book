@@ -1,14 +1,9 @@
 ## 1. Cashier observation book
 
-| <img src="http://www.clipartbest.com/cliparts/di8/XoK/di8XoKnXT.png" alt="Spy" width="80px" /> | <img src="https://free.clipartof.com/2097-Free-Clipart-Of-A-Man-With-A-Magnifying-Glass-Over-A-Document.png" alt="spy" width="80px" />
-| ---------------------------------------| -------------------------------------- |
-| Observe ops, SM, ASM, DM, FC, HK, security, csd, tailor | Give opinion about them all the above designation |
-
-- 
-- Special assignment for Asm, Dm, fc, hk, security, tailor, 
-- Anybody your assigning about sop or not doing job properly you can write in observation 
-- Explain customer about trends, & family, store location, washing instruction, exchange policy
-
+| <img src="http://www.clipartbest.com/cliparts/di8/XoK/di8XoKnXT.png" alt="Spy" width="60px" /> | <img src="https://free.clipartof.com/2097-Free-Clipart-Of-A-Man-With-A-Magnifying-Glass-Over-A-Document.png" alt="spy" width="80px" /> | <img src="https://cdn2.iconfinder.com/data/icons/startup-management/325/Project_management_Project_Mandate-512.png" alt="Spy" width="120px" /> | <img src="https://cdn2.iconfinder.com/data/icons/startup-management/325/Project_management_End_Project_Report-512.png" alt="Spy" width="120px" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Noun_project_-_Presentation_with_screen.svg/1024px-Noun_project_-_Presentation_with_screen.svg.png" alt="Spy" width="80px" /> |
+| ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- | 
+| Observe ops, SM, ASM, DM, FC, HK, security, csd, tailor | Give opinion about them all the above designation | Special assignment for Asm, Dm, fc, hk, security, tailor | Anybody your assigning about sop or not doing job properly you can write in observation | Explain customer about trends, & family, store location, washing instruction, exchange policy |
+| <img src="http://www.clipartbest.com/cliparts/di8/XoK/di8XoKnXT.png" alt="Spy" width="60px" /> | <img src="https://free.clipartof.com/2097-Free-Clipart-Of-A-Man-With-A-Magnifying-Glass-Over-A-Document.png" alt="spy" width="80px" /> | <img src="https://cdn2.iconfinder.com/data/icons/startup-management/325/Project_management_Project_Mandate-512.png" alt="Spy" width="120px" /> | <img src="https://cdn2.iconfinder.com/data/icons/startup-management/325/Project_management_End_Project_Report-512.png" alt="Spy" width="120px" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Noun_project_-_Presentation_with_screen.svg/1024px-Noun_project_-_Presentation_with_screen.svg.png" alt="Spy" width="80px" /> |
 
 ## Cashiers scope of work
 - duty is to listen all the sop's and understand in depth
